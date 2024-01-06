@@ -1,2 +1,3 @@
 # Smart-tour-Guide
 Its a webpage that will help the tourists to learn about that particular place. In short it will act as an online guide.
+Many people find it difficult to learn and have fun at museums. Reading long descriptions, especially those who find reading a challenge can be a drawback. We want to solve this problem and make visiting museums, zoo etc easier and more exciting. Right now, there isn't a simple way for visitors to get interesting information about exhibits without reading a lot. We want to create a device or system that talks to visitors, like a friendly guide. But, it should be easy to use, like listening to music with headphones
